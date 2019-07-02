@@ -1,0 +1,44 @@
+@charset "utf-8";
+.section3{
+	text-align:center;
+}
+.sub__taitle{
+	color: #00b4ff;
+	font-weight: bold;
+	font-size: 2rem;
+	margin:3rem;
+	letter-spacing: -0.1rem;
+
+}
+.section3 h2{
+	color:#4b4b4b;
+	font-weight: bold;
+	font-size: 3rem;
+	margin-bottom:3rem;
+}
+.step__box{
+	margin:0rem 0rem 12rem 0rem;
+    width: 15rem;
+    text-align: center;
+    border-radius: 5%;
+    background: #ddf9ff;
+    padding:1rem 4rem 1rem 4rem; 
+}
+.section3 h3{
+	color: #00b4ff;
+	font-weight: bold;
+	font-size: 250%;
+	margin:2rem 0 2rem 0; 
+}
+.step__boxtext{
+	font-size: 1.5rem;
+    font-weight: bold;
+    color: #4b4b4b;
+    margin: 1rem;
+}
+.kg img {
+    position: relative;
+    top: 8rem;
+    width: 2rem;
+    margin: 1rem;
+}

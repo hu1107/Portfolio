@@ -1,0 +1,50 @@
+.section5{
+	background:url(../images/kaidan.png) no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+.section5 h2{
+	font-size: 3rem;
+	font-weight: bold;
+	color:#4b4b4b;
+	padding: 4rem;
+}
+.reason_box{
+    background: #fff;
+    width: 40rem;
+    padding: 2rem;
+    margin: 0 auto;
+    margin-left: 18rem;
+    border-radius: 1rem;
+}
+.section5 p{
+	font-size: 3rem;
+	font-weight:bold;
+	color:#4b4b4b;
+	padding:1rem;
+	margin-left: 1rem;
+	text-align: left;
+}
+.section5_btn{
+    color: #fff;
+    background-color: #ff0b0b;
+    font-weight: bold;
+    font-size: 2rem;
+    display: inline-block;
+    margin: 4rem;
+    padding:1rem 1.5rem 1rem 1.5rem;
+    border-radius: 1rem;
+}
+.section5_btn:hover{
+  	background-color: #ff5353;
+}
+.reason_box img{
+	width: 3rem;
+    position: relative;
+    top: 7px;
+    margin-right: 0.5rem;
+}
+.section5 a{
+	text-decoration: none;
+	color: #fff;
+}

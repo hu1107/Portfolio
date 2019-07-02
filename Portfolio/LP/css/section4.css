@@ -1,0 +1,32 @@
+.section4 h2{
+    background-color: #005eac;
+    color: #fff;
+    font-size: 2.5rem;
+    padding: 3rem;
+    text-align: center;
+    font-weight: bold;
+    position: relative;
+}
+.section4 p{
+    color: #005eac;
+    font-size: 2rem;
+    font-weight: bold;
+    margin:1rem;
+    line-height: normal;
+    display: inline-block;
+}
+.text_box{
+    margin: 0 auto;
+    width: 58rem;
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+}
+.section4 h2:before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -101px;
+    border: 94px solid transparent;
+    border-top: 59px solid #005eac;
+}
